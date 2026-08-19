@@ -1,4 +1,5 @@
 # Stat_Scribe 📊
+![CI](https://github.com/realMNohgee/Stat_Scribe/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Zero-dependency descriptive statistics for the command line.** Feed it a list of numbers, a file, or stdin — get a complete statistical summary or an ASCII histogram. Pure Python standard library, nothing to install.
 
